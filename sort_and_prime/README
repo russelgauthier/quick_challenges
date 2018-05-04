@@ -1,0 +1,15 @@
+Write a program that given an array of integers, will sort them ascending and then provide an ascending list of the primes in that list.
+
+e.g.
+Input:
+	2,19,77,3,4,16,8,66,1,-333,0
+Output:
+	Input:
+	{2,19,77,3,4,16,8,66,1,-333,0}
+	
+	Sorted(ASC):
+	{-333,0,1,2,3,4,8,16,19,66,77}
+
+	Primes - Sorted(ASC):
+	{1,2,3,19}
+	
